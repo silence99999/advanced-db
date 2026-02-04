@@ -3,6 +3,13 @@
 ## Project Overview
 Inventory + order management web app with authentication, admin tools, and analytics. The backend exposes a RESTful API backed by MongoDB, and the frontend provides CRUD interactions.
 
+## How to Start
+```bash
+cd final
+npm install
+node server.js
+```
+
 ## Tech Stack
 - Node.js + Express
 - MongoDB + Mongoose
